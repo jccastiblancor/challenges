@@ -35,9 +35,3 @@ def merge(A,B,C):
         elif c<len(C) and nuevo==C[c]:
             c=c+1
     return ans
-
-A=[-100 ,-20,-10,0,30,40,90]
-B=[-90,0,0,20,30]
-C=[-50,-10,0,5,30,70,100]
-
-print(merge(A,B,C))

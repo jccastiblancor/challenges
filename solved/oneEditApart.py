@@ -1,8 +1,5 @@
-def prueba():
-    print('wtf esto deberia funcionar al 1000%')
 def OneEditApart(s1, s2):
     resp=True
-    prueba()
     if abs(len(s1)-len(s2))>1:
         return False
     l1=[]
