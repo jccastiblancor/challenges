@@ -1,7 +1,7 @@
 def sortT(val):
     return val[2]
 
-def twoCitySchedCost(self, costs: List[List[int]]) -> int:
+def twoCitySchedCost(costs):
     for i in costs:
         i.append(abs(i[0] - i[1]))
 
