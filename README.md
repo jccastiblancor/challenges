@@ -1,4 +1,4 @@
-#challenges
+# challenges
 
 Series of programing challenges. Each problem comes with
  a description included in the problem folder, the input 
